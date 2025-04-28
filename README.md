@@ -10,10 +10,11 @@
 
 - 📱 Você precisa de internet só para casa ou casa e telemóvel?
 
-- 📋 Qual seria seu contribuinte, por gentileza? Assim consigo verificar a possibilidade de um desconto no sistema.
 
 ### Apresentação dos Planos
 - 📦 [Apresentar planos disponíveis...]
+
+- 📋 Qual seria seu contribuinte, por gentileza? Assim consigo verificar a possibilidade de um desconto no sistema.
 
 ### Agendamento
 - 👨‍🔧 Quando você pode receber o técnico em sua residência?
