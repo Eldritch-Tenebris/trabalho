@@ -14,8 +14,6 @@
   - [Taxas disponíveis]
   - [Prazos de financiamento]
 
-- 📋 Para avançarmos com a simulação personalizada, preciso do seu contribuinte. Pode-me facultar?
-
 ### Análise Documental
 - 💼 Para prosseguir, necessito:
   - Declaração de IRS mais recente
