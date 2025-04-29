@@ -1,8 +1,6 @@
 # Script de Atendimento NOS - Ligação 📱 
 
 ### Saudação Inicial
-- 👋 Olá, boa tarde! Falo com [Nome do cliente]?
-
 - 🤝 O meu nome é [Seu Nome] da NOS. O motivo do meu contacto é porque a NOS está disponibilizando uma TV de 32 polegadas grátis para novas adesões! 🎁
 
 ### Qualificação
