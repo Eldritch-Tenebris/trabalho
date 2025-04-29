@@ -24,15 +24,15 @@
 
 - Vou finalizar aqui no sistema e já lhe indico a data da instalação!
 
+### Documentação
+- 📄 Para finalizar, vou precisar:
+  - Documento de identificação
+  - IBAN para garantir de 1 euro de desconto mensal
+ 
 ### Dados para Contacto
 - 📧 Para envio da documentação, pode-me confirmar o seu endereço de email?
 
 - 💬 Prefere receber os detalhes por WhatsApp neste contacto?
-
-### Documentação
-- 📄 Para finalizar, vou precisar:
-  - Documento de identificação
-  - IBAN para garantir o desconto mensal e televisão gratuita
 
 ### Encerramento
 - 📞 Ficarei disponível pelo WhatsApp
