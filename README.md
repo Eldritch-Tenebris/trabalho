@@ -1,36 +1,38 @@
-# Script de Atendimento NOS 📱 
+# Script de Atendimento NOS - Ligação 📱 
 
 ### Saudação Inicial
-- 👋 Olá, boa tarde! Meu nome é João Pedro da NOS. O motivo do meu contato é porque a NOS está disponibilizando uma TV de 32 polegadas grátis para novas adesões! 🎁
+- 👋 Olá, boa tarde! Falo com [Nome do cliente]?
+
+- 🤝 O meu nome é [Seu Nome] da NOS. O motivo do meu contacto é porque a NOS está disponibilizando uma TV de 32 polegadas grátis para novas adesões! 🎁
 
 ### Qualificação
-- 🏠 Tem internet em casa?
+- 🏠 Tem interesse em conhecer nossas ofertas?
 
-- 📍 Perfeito! Diga-me o seu código postal, por gentileza, para que eu possa verificar a tecnologia disponível na sua zona?
-
-- 📱 Precisa de internet só para casa ou casa e telemóvel?
+- 📍 Ótimo! Para verificar as melhores condições, pode-me informar seu código postal?
 
 ### Apresentação dos Planos
-- 📦 [Apresentar planos disponíveis...]
+- 📦 Com base na sua zona, temos disponível:
+  - [Detalhar velocidades]
+  - [Detalhar canais]
+  - [Mencionar TV grátis]
+  - [Outros benefícios]
 
-- 📋 Qual seria o seu contribuinte, por gentileza? Assim consigo verificar a possibilidade de um desconto no sistema.
+- 📋 Para garantir o melhor desconto, preciso do seu contribuinte. Pode-me facultar?
 
 ### Agendamento
-- 👨‍🔧 Quando poderá receber o técnico na sua residência?
+- 👨‍🔧 Qual seria a melhor data para receber nosso técnico?
 
-### Dados para Contato
-- 📧 Poderia fornecer-me o seu e-mail, por gentileza?
+### Dados para Contacto
+- 📧 Para envio da documentação, pode-me confirmar seu e-mail?
 
-- 💬 Este número que estou a contactar tem WhatsApp?
-
-- ✅ Perfeito, vou contactá-lo por lá!
+- 💬 Prefere receber os detalhes por WhatsApp neste número?
 
 ### Documentação
-- 📄 Vou precisar que me envie a fotografia do seu documento para formalizar o contrato, por gentileza.
-
-- 🏦 Vou precisar do seu IBAN para garantir um desconto de 1 euro em todas as suas faturas e garantir que possa levantar a TV numa loja física.
+- 📄 Para finalizar, vou precisar:
+  - Documento de identificação
+  - IBAN para garantir desconto mensal e TV grátis
 
 ### Encerramento
-- 📞 Para qualquer questão pode contactar-me pelo WhatsApp.
+- 📞 Ficarei à disposição pelo WhatsApp
 
-- 🎉 Seja bem-vindo à NOS!
+- 🎉 Seja bem-vindo à família NOS!
