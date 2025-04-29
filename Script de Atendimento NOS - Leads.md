@@ -3,7 +3,7 @@
 ### Saudação e Confirmação
 - 👋 Olá, boa tarde! Falo com [Nome do cliente]?
 
-- 👋 Meu nome é [Seu nome], muito obrigado pelo seu contacto com a NOS! Vi que demonstrou interesse nos nossos serviços. Posso ajudá-lo?
+- 👋 Olá, meu nome é [Seu nome]. Muito obrigado pelo seu contacto com a NOS. Estou retornando sua solicitação referente aos nossos serviços. É isso mesmo?
 
 ### Qualificação
 - 📍 Excelente! Para verificar as melhores ofertas na sua zona, pode-me confirmar o seu código postal?
