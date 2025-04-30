@@ -4,7 +4,7 @@
 - 🤝 O meu nome é [Seu Nome] da NOS. O motivo do meu contacto é porque a NOS está a disponibilizar uma televisão de 32 polegadas gratuita para novas adesões! 🎁
 
 ### Qualificação
-- 🏠 Tem interesse em conhecer as nossas ofertas?
+- 🏠 Tem serviço de internet aí em casa neste momento?
 
 - 📍 Excelente! Para verificar as melhores condições, pode-me indicar o seu código postal?
 
