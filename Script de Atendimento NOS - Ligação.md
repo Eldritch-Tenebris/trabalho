@@ -1,7 +1,7 @@
 # Script de Atendimento NOS - Ligação 📱 
 
 ### Saudação Inicial
-- 🤝 O meu nome é [Seu Nome] da NOS. O motivo do meu contacto é porque a NOS está a disponibilizar uma televisão de 32 polegadas gratuita para novas adesões! 🎁
+- 🤝 O meu nome é [Seu Nome] da NOS. O motivo do meu contacto é porque a NOS está a disponibilizar uma Smart TV de 32 polegadas gratuita para novas adesões! 🎁
 
 ### Qualificação
 - 🏠 Tem serviço de internet aí em casa neste momento?
