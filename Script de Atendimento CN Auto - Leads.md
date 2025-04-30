@@ -3,7 +3,8 @@
 ### Saudação e Confirmação
 - 👋 Olá boa tarde, falo com [Nome do cliente]?
 
-- 🤝 Olá, meu nome é [Seu nome]. Muito obrigado pelo seu contacto com a CN Auto. Estou retornando sua solicitação referente ao financiamento de veículo. É isso mesmo?
+- 🤝 Olá, meu nome é [Seu nome]. Agradeço pelo seu contato com a CN Auto.
+Estou retornando sua solicitação sobre o financiamento de veículo. É isso mesmo? Posso seguir com os detalhes para lhe ajudar?
 
 ### Qualificação
 - 📍 Perfeito! Para prosseguirmos com a análise, qual modelo de veículo tem interesse?
